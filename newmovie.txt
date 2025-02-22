@@ -1,2 +1,4 @@
 sea 
 water
+tree
+plant
