@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 strawberry
 bannila
+=======
+choco 
+soda
+>>>>>>> a9b13054f8302cf0f45daa7cccfb45c1a8650843
